@@ -1,3 +1,43 @@
+/*CUSTOM*/
+img#gyro {
+margin-top: -270px;
+}
+p#description1 {
+width: 57%;
+text-align: right;
+line-height: 30px;
+}
+p#description2 {
+width: 70%;
+margin-top: -150px;
+text-align: left;
+line-height: 30px;
+}
+section#thechallenge {
+padding-bottom: 50px;
+}
+img#copter {
+box-shadow: 4px 4px whitesmoke;
+width: 50%;
+float: right;
+margin-top: 50px;
+}
+p#gyrodesign {
+width: 45%;
+display: inline-block;
+margin-top: 55px;
+}
+p#gyrodesign2 {
+width: 45%;
+margin-top: -40px;
+}
+p#gyrodesign3 {
+margin-top: -40px;
+}
+section#thedesign {
+padding-bottom: 50px;
+}
+
 /*--------------------
 -----Main Styles------
 ----------------------*/
@@ -136,6 +176,7 @@ a:focus,
     text-align:center;
     font-size:18px;
     margin-bottom:60px;
+    margin-top: 50px;
 }
 
 .subsection-title{  
