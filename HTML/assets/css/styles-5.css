@@ -27,9 +27,24 @@ img#copter {
 box-shadow: 4px 4px whitesmoke;
 width: 50%;
 float: right;
-margin-top: 50px;
+margin-top: 120px;
 }
-p#gyrodesign {
+p.gyrodesignscript{
+    font-size: 24px;
+    line-height: 34px;
+    text-align: left;
+}
+p#gd1 {
+margin-top: 80px;
+}
+p.gdleft{
+    width:45%;
+}
+p.section-description.gyrodesigndscript.gdleft{
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+/*p#gyrodesign {
 font-size:24px;
 line-height: 34px;
 text-align: left;
@@ -50,7 +65,7 @@ line-height: 34px;
 text-align: left;
 font-size:24px;
 margin-top: -40px;
-}
+}*/
 section#thedesign {
 padding-bottom: 50px;
 }
