@@ -1721,6 +1721,15 @@ margin: 50px auto;
 width: 90%;
 margin: 0 auto;
 }
+img#copter {
+box-shadow: 4px 4px whitesmoke;
+width: 90%;
+float: none;
+margin-top: 70px;
+}
+p.gdleft {
+width: 95%;
+}
 }
 @media (max-width: 991px) {
 
