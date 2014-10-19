@@ -10,15 +10,15 @@ margin-left: 50px;
 margin-bottom: 50px;
 }
 p#description1 {
-font-size: 24px;
+font-size: 22px;
 text-align: left;
-line-height: 34px;
+line-height: 32px;
 margin-top: 75px;
 }
 p#description2 {
-font-size: 24px;
+font-size: 22px;
 text-align: left;
-line-height: 34px;
+line-height: 32px;
 }
 section#thechallenge {
 padding-bottom: 50px;
@@ -30,7 +30,7 @@ float: right;
 margin-top: 120px;
 }
 p.gyrodesignscript{
-    font-size: 24px;
+    font-size: 22px;
     line-height: 34px;
     text-align: left;
 }
@@ -43,6 +43,16 @@ p.gdleft{
 p.section-description.gyrodesigndscript.gdleft{
     margin-bottom: 0px;
     margin-top: 20px;
+    font-size: 22px;
+    text-align: left;
+    line-height: 32px;
+}
+p.section-description.gyrodesigndscript {
+    margin-bottom: 0px;
+    margin-top: 20px;
+    font-size: 22px;
+    text-align: left;
+    line-height: 32px;    
 }
 /*p#gyrodesign {
 font-size:24px;
